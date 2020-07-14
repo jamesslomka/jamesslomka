@@ -1,5 +1,4 @@
-### James Slomka | [jamesslomka.com](jamesslomka.com)
-
+### James Slomka
 #### Software Engineer @ [SSENSE](www.ssense.com)
 
 <!--
