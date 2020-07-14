@@ -1,4 +1,6 @@
-### Hi there 👋
+### James Slomka | [jamesslomka.com](jamesslomka.com)
+
+## Software Engineer @ [SSENSE](www.ssense.com)
 
 <!--
 **jamesslomka/jamesslomka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
