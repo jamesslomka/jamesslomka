@@ -1,4 +1,4 @@
-### James Slomka
+### James Slomka 🤠
 #### Software Engineer @ [SSENSE](www.ssense.com)
 
 <!--
