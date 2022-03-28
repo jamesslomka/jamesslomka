@@ -1,5 +1,5 @@
 ### James Slomka
-#### Senior Software Engineer at [SSENSE](https://www.ssense.com)
+#### Senior Software Developer at [SSENSE](https://www.ssense.com)
 
 [www.jamesslomka.com](http://jamesslomka.com)
 <!--
